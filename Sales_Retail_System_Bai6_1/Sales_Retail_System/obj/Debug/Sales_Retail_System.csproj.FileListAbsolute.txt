@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\Sales_Retail_System_Bai6_1\Sales_Retail_System\bin\Debug\Sales_Retail_System.exe.config
+C:\Users\PC\Downloads\Sales_Retail_System_Bai6_1\Sales_Retail_System\bin\Debug\Sales_Retail_System.exe
+C:\Users\PC\Downloads\Sales_Retail_System_Bai6_1\Sales_Retail_System\bin\Debug\Sales_Retail_System.pdb
+C:\Users\PC\Downloads\Sales_Retail_System_Bai6_1\Sales_Retail_System\obj\Debug\Sales_Retail_System.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Sales_Retail_System_Bai6_1\Sales_Retail_System\obj\Debug\Sales_Retail_System.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Sales_Retail_System_Bai6_1\Sales_Retail_System\obj\Debug\Sales_Retail_System.exe
+C:\Users\PC\Downloads\Sales_Retail_System_Bai6_1\Sales_Retail_System\obj\Debug\Sales_Retail_System.pdb
